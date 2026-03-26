@@ -1,0 +1,5 @@
+# Essential packages only - no compilation required
+fastapi
+uvicorn
+requests
+python-dotenv
