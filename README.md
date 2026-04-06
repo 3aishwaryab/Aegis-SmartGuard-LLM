@@ -1,6 +1,3 @@
- Here’s a **clean, human-friendly README** that directly answers *all required questions* and fits your Track B submission. You can paste this into your repo.
-
----
 
 #  Smart Guard LLM Guardrail System (Track B)
 
